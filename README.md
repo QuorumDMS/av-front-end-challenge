@@ -11,7 +11,7 @@ This challenge is intended to be a short simulation of the environment and techn
 3. Robustness: Does the application handle errors reasonably? Did the developer make an effort to test their code?
 4. Completeness: Did the solution solve the entire problem, or only certain parts of it? 
 
-Throughout the process, your interviewer remains as a first-class resource, and is available for pair programming and any questions: do not hesitate to reach out to [chris@autovance.com](mailto:chris@autovance.com) at any time during the exercise.
+Throughout the process, your interviewer remains as a first-class resource, and is available for pair programming and any questions: do not hesitate to reach out to [millerj@quorumdms.com](mailto:millerj@quorumdms.com) at any time during the exercise.
 
 ## The Problem
 
@@ -97,7 +97,7 @@ To mark Lead A (`lead_id === eb59dab2-b25f-4986-96fd-93a2d31f5a51`) as a duplica
 4. Run the Autovance Leads API server on port 3000 using `node leads-api.js`
 5. Complete the code to solve the problem described above
 6. Create a small technical write-up that describes how you solved the problem, and put it in `DESCRIPTION.md`
-7. Add @crabl to the private repository and send an e-mail to chris@autovance.com once you've pushed your completed project up to GitHub
+7. Add @xjph to the private repository and send an e-mail to millerj@quorumdms.com once you've pushed your completed project up to GitHub
 
 ## Notes 
 
